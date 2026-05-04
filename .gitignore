@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (Crucial for security!)
+.env
+
+# Test files you generated today
+*.pdf
+
+# Operating System clutter
+.DS_Store
+Thumbs.db
